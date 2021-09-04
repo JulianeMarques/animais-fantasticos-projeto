@@ -91,7 +91,7 @@ body {
 }
 
 .animais-lista {
-  height: 1770px;
+  height: 370px;
   overflow-y: scroll;
   grid-column: 2;
 }
